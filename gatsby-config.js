@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `Conquer Peak Health`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    author: `Coach Scott`,
+    description: `A blog to help anyone realize their human potential (peak)`,
+    siteUrl: `https://conquerpeakhealth.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `Scott15823330`,
     },
   },
   plugins: [
@@ -108,20 +108,20 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-         trackingId: `173606656`,
+         trackingId: `UA-173606656-1`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Conquer Peak Health Blog`,
+        short_name: `Conquer Fit`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/CPH-logo-white.png`,
       },
     },
     {

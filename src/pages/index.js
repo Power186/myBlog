@@ -7,27 +7,28 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "Conquer Peak Health today"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`blog`, `health`, `wellness`, `fitness`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        <img style={{ margin: 0 }} src="./fitness-tracking-application.png" alt="optimization scene" />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        <p>Welcome to Conquer Peak Health. I help anyone realize their human potential (peak).</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          This is a place where I, Coach Scott, share my learnings and help others like you reach their peak health.
+          You can expect topics on sport psychology, epigenetics, neuroscience, 
+          motor learning, health/wellness, fitness, prevention, self care, posture, mindset, debunking myths, technqiues you can apply to heal yourself and others, and so much more!  
         </p>
-        <p>Now go build something great!</p>
+        <p>Let's go build something great and reach our peak!</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
