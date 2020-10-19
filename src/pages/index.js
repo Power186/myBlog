@@ -35,8 +35,7 @@ class IndexPage extends React.Component {
           <br>Epigenetics</br>
           <br>Debunking myths</br>
           <br>Proven techniques to heal yourself and others</br>
-          <br>Real stories and so much more!</br>
-          </p>
+          <br>Real stories and so much more!</br></p>
 
         <p>Let's go build something great and reach our peak!</p>
         <Link to="/blog/">
