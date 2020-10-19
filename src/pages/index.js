@@ -25,19 +25,19 @@ class IndexPage extends React.Component {
         <p>Welcome to Conquer Peak Health. I help anyone realize their human potential (peak).</p>
         <p>
           This is a place where I, Coach Scott, share my learnings and help others like you reach their peak health.
-          You can expect topics as they relate to health and wellness on:</p>
+          You can expect topics as they relate to health and wellness on:
 
-        <ul style="list-style-type:circle;">
-          <li>Sport Psychology - Neuroscience - Mindset</li>
-          <li>Fitness - Posture - Optimal human movement</li>
-          <li>Injury Prevention</li>
-          <li>Self Care - Healing</li>
-          <li>Orthopedic Rehabilitation</li>
-          <li>Epigenetics</li>
-          <li>Debunking myths</li>
-          <li>Proven techniques to heal yourself and others</li>
-          <li>Real stories and so much more!</li>
-        </ul> 
+          Sport Psychology - Neuroscience - Mindset
+          Fitness - Posture - Optimal human movement
+          Injury Prevention
+          Self Care - Healing
+          Orthopedic Rehabilitation
+          Epigenetics
+          Debunking myths
+          Proven techniques to heal yourself and others
+          Real stories and so much more!
+          
+          </p>
 
         <p>Let's go build something great and reach our peak!</p>
         <Link to="/blog/">
