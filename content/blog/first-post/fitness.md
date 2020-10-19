@@ -6,7 +6,7 @@ description: "Harvard study supports health outcomes from health coaches"
 
 ### Why a health coach may be one of your best bets for health.
 
-![running](./healing.jpg)
+![running](./health-and-fitness.png)
 
 Let's start by examining why people still hire personal trainers despite so much free info on youtube, webistes, publications, online courses, etc. It starts with accountability.
 
