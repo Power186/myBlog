@@ -13,7 +13,7 @@ class IndexPage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`blog`, `health`, `wellness`, `fitness`]}
+          keywords={[`blog`, `health`, `conquer`, `fitness`]}
         />
         <img style={{ margin: 0 }} src="./fitness-tracking-application.png" alt="optimization scene" />
         <h1>
@@ -33,7 +33,7 @@ class IndexPage extends React.Component {
           Debunking myths - Proven techniques to heal yourself and others -
           Real stories and so much more!</p>  
 
-        <p>Let's go build something great and reach our peak!</p>
+        <p>Let's go build a great foundation and reach our peak!</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
