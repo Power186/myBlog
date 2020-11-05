@@ -13,7 +13,7 @@ class IndexPage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="Home"
-          keywords={[`blog`, `health`, `conquer`, `fitness`]}
+          keywords={[`blog`, `health`, `conquer`, `fitness`, `wellness`, `iOS`]}
         />
         <img style={{ margin: 0 }} src="./fitness-tracking-application.png" alt="optimization scene" />
         <h1>
@@ -24,16 +24,14 @@ class IndexPage extends React.Component {
         </h1>
         <p>Welcome to Conquer Peak Health. I help anyone realize their human potential (peak).</p>
         <p>
-          This is a place where I, Coach Scott, share my learnings and help others like you reach their peak health.
-          You can expect demystified topics as they relate to health and wellness on: 
-          </p>
+          This is a place where I, Coach Scott, share my learnings of healing others and provide info on my latest iOS and watchOS apps to help us along the way.
+          You can expect demystified topics as they relate to health and wellness on: </p>
         <p>Sport Psychology - Neuroscience - Mindset -
-          Fitness - Posture - Optimal human movement - Injury Prevention- Self Care / Healing -
+          Fitness - Posture - Optimal Human Movement - Injury Prevention - Self Care / Healing -
           Orthopedic Rehabilitation - Epigenetics -
           Debunking myths - Proven techniques to heal yourself and others -
           Real stories and so much more!</p>  
 
-        <p>Let's go build a great foundation and reach our peak!</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>

@@ -34,7 +34,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, an iOS Engineer & Health and Wellness Coach.
+              Written by <strong>{author}</strong>, an iOS Engineer & Healer.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter
