@@ -22,7 +22,7 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to Conquer Peak Health. I help anyone realize their human potential (peak). <a href="https://www.linkedin.com/in/scott-ios/" rel="noreferrer" target="_blank">Who am I?</a></p>
+        <p>Welcome to Conquer Peak Health. I help anyone realize their human potential (peak). <a href="https://power186.github.io/newestPortfolio/" rel="noreferrer" target="_blank">Who am I?</a></p>
         <p>
           I'm Scott! An LMT & iOS Engineer. Here I will share my 12+ years of experience healing others and provide info on my latest iOS and watchOS apps to help us along the way.
           You can expect demystified topics as they relate to health and wellness on: </p>
