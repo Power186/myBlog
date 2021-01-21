@@ -22,14 +22,14 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to Conquer Peak Health. I help anyone realize their human potential (peak). <a href="https://power186.github.io/newestPortfolio/" rel="noreferrer" target="_blank">Who am I?</a></p>
+        <p>Welcome to Conquer Peak Health. I create exceptional and creative iOS apps. <a href="https://power186.github.io/newestPortfolio/" rel="noreferrer" target="_blank">Who am I?</a></p>
         <p>
-          I'm Scott! An LMT & iOS Engineer. Here I will share my 12+ years of experience healing others and provide info on my latest iOS and watchOS apps to help us along the way.
-          You can expect demystified topics as they relate to health and wellness on: </p>
+          I'm Scott! An LMT & iOS Engineer. Here I will share my 12+ years of experience healing others and provide info on my latest iOS and watchOS apps.
+          You can expect demystified topics as they relate to: </p>
 
-        <p>Sport Psychology - Neuroscience - Mindset -
+        <p>Sport Psychology - iOS apps - Mindset -
           Fitness - Posture - Optimal Human Movement - Injury Prevention - Self Care / Healing -
-          Orthopedic Rehabilitation - Epigenetics -
+          Epigenetics -
           Debunking myths - Proven techniques to heal yourself and others -
           Real stories and so much more!</p>  
 
